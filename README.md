@@ -1,2 +1,2 @@
 # CS231n
-CS231n Assignments
+The CS231n assignments I have done.
